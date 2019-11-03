@@ -1,0 +1,14 @@
+Welcome to ADG Kitchen
+
+Menu:
+
+Dessert
+----------
+
+1. Fruit Salad
+2. Gulab Jamun
+3. Kheer
+
+Appetizers
+-------------
+1. Vada
