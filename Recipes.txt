@@ -12,3 +12,7 @@ Dessert
 Appetizers
 -------------
 1. Vada
+2. Idly
+3. Mirchi Bujji
+4. Dosa
+5. Masala Dosa
