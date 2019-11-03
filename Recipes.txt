@@ -16,3 +16,17 @@ Appetizers
 3. Mirchi Bujji
 4. Dosa
 5. Masala Dosa
+
+Breads
+----------
+1. Naan
+2. Garlic Naan
+3. Roti
+4. Parata
+
+Rice:
+------
+1. Masala Rice
+2. Veg Pulav
+3. Mango rice
+4. Lemon Rice
