@@ -16,11 +16,27 @@ Appetizers
 3. Mirchi Bujji
 4. Dosa
 5. Masala Dosa
-6. Rava Dosa
-7. Dahi Vada
-8. Puri
-9. Bonda
-10. Pakora
+
+
+Breads
+----------
+1. Naan
+2. Garlic Naan
+3. Roti
+4. Parata
+
+Rice:
+------
+1. Masala Rice
+2. Veg Pulav
+3. Mango rice
+4. Lemon Rice
+5. Rava Dosa
+6. Dahi Vada
+7. Puri
+8. Bonda
+9. Pakora
 
 
 Notes: Please check for the price
+
