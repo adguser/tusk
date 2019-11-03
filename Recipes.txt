@@ -17,6 +17,7 @@ Appetizers
 4. Dosa
 5. Masala Dosa
 
+
 Breads
 ----------
 1. Naan
@@ -30,3 +31,12 @@ Rice:
 2. Veg Pulav
 3. Mango rice
 4. Lemon Rice
+5. Rava Dosa
+6. Dahi Vada
+7. Puri
+8. Bonda
+9. Pakora
+
+
+Notes: Please check for the price
+
